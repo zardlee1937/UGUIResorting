@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root x="0" y="0" width="1536" height="2048" anchor-min="(0.0, 0.0)" anchor-max="(1.0, 1.0)">
+  <Node x="41.61576" y="-485.8535" width="83.23153" height="971.7071" anchor-min="(0.0, 1.0)" anchor-max="(0.0, 1.0)" />
+  <Node x="-41.61576" y="-485.8535" width="83.23153" height="971.7071" anchor-min="(1.0, 1.0)" anchor-max="(1.0, 1.0)" />
+  <Node x="41.61576" y="524.779" width="83.23153" height="1049.558" anchor-min="(0.0, 0.0)" anchor-max="(0.0, 0.0)" />
+  <Node x="-41.61576" y="524.779" width="83.23153" height="1049.558" anchor-min="(1.0, 0.0)" anchor-max="(1.0, 0.0)" />
+  <Node x="-139.7617" y="50.44335" width="252.2168" height="84.07225" anchor-min="(0.5, 0.5)" anchor-max="(0.5, 0.5)" />
+  <Node x="139.7617" y="50.44335" width="252.2168" height="84.07225" anchor-min="(0.5, 0.5)" anchor-max="(0.5, 0.5)" />
+  <Node x="-245.9029" y="-50.44335" width="464.4992" height="84.07225" anchor-min="(0.5, 0.5)" anchor-max="(0.5, 0.5)" />
+  <Node x="245.9029" y="-50.44335" width="464.4992" height="84.07225" anchor-min="(0.5, 0.5)" anchor-max="(0.5, 0.5)" />
+  <Node x="0" y="210.1806" width="367.3958" height="176.5517" anchor-min="(0.5, 0.5)" anchor-max="(0.5, 0.5)" />
+</Root>
