@@ -21,4 +21,4 @@
 </code></pre>
 
 2. 在root上加入UGUIBaker脚本，点击Bake，数据会保存在StreamingAssets/GUI下
-3. 在root上加入UGUIReset脚本，将xml包含到工程资源中，拖拽到data上，输入当前分辨率，点击Reset
+3. 在root上加入UGUIGenerater脚本，将xml包含到工程资源中，拖拽到data上，输入当前分辨率，点击Reset
